@@ -1,76 +1,79 @@
-🌍 Travel Agent Assistant – IBM Agentic AI Project
-A smart AI-powered Travel Assistant built using IBM watsonx Assistant (Agentic AI). This chatbot helps users plan trips, explore destinations, and get travel suggestions through natural and interactive conversations.
+🌍 IBM Agentic AI Project – Travel Agent Assistant
+An intelligent AI-powered Travel Assistant built using IBM watsonx Assistant (Agentic AI). This chatbot helps users with trip planning, budget-friendly travel suggestions, destination ideas, and personalized assistance using natural conversation.
 
-📚 Table of Contents
+📑 Table of Contents
+🧠 Project Overview
 
-Overview
+🚀 Features
 
-Features
+🌐 Live Preview
 
-Live Preview
+🛠️ Tech Stack
 
-Tech Stack
+✅ Future Enhancements
 
-Future Enhancements
+📌 Notes
 
-Notes
+👨‍💻 Developed With
 
-Credits
+🧠 Project Overview
+Platform: IBM watsonx Assistant (Agentic AI Workflow)
 
+Type: AI Travel Planner Assistant
 
-🧠 Overview
-Platform: IBM watsonx Assistant (Agentic AI)
-
-Category: AI Travel Planner
+Interface: Web Chat
 
 Method: No-code / Low-code using Actions
 
-Purpose: Helps users with trip planning, destination ideas, and activity suggestions
-
-Interface: Deployed as a web chatbot
+Integration: Easily deployable on websites or cloud apps
 
 🚀 Features
-✈️ Destination suggestions based on preferences
+🏖️ Destination Recommendations – based on user interests
 
-💰 Budget-friendly travel ideas
+💸 Budget-Based Suggestions – personalized travel options
 
-🧭 Activity planning per location
+🧭 Activity Planning – things to do in selected locations
 
-📅 Booking-related Q&A
+📅 Booking Assistance – answers booking-related queries
 
-🔄 Dynamic conversation flow using Actions
+🔁 Custom Conversation Flow – built with Actions editor
 
-🌐 Web-based chatbot interface
+🌐 Web Preview – easily share and test chatbot online
 
 🌐 Live Preview
-Interact with the assistant here:
-👉 Open Chatbot
+🔗 Click to Try the Travel Assistant Chatbot
+https://dataplatform.cloud.ibm.com/ml-runtime/deployments/aaa3e2a3-adc2-4ab9-9901-04a4b16d474d/chat?space_id=229ca472-1cab-482d-8578-8043d039ac72&context=wx&flush=true
 
-No login required – works directly in your browser.
+💬 Interact with the assistant directly in your browser.
+No installation or login required!
 
 🛠️ Tech Stack
-IBM watsonx Assistant – Dialog & Actions (Agentic AI)
-
-IBM Cloud – Hosting & Deployment
-
-Web Chat UI – Interface for interaction
+Tool / Platform	Purpose
+IBM watsonx Assistant	Core AI logic (Agentic AI + Actions)
+IBM Cloud	Hosting and deployment
+Web Chat UI	Front-end user interaction
 
 ✅ Future Enhancements
-📍 Integration with real-time location APIs
+📍 Real-Time Location API integration for places nearby
 
-💳 Payment support for bookings
+💳 Payment Gateway Support for bookings
 
-🌐 Multi-language support
+🗣️ Voice Input/Output support (speech recognition)
 
-🎙️ Voice input/output features
+🌐 Multilingual Support for international users
 
 📌 Notes
-Built entirely using IBM watsonx Assistant’s visual Actions editor
+Entire project created using visual workflows (Actions) in IBM watsonx Assistant.
 
-No external coding required
+No additional backend or external scripting required.
 
-Can be embedded easily in any website
+Easily customizable using the drag-and-drop editor.
 
-🙌 Credits
-Developed using IBM watsonx Assistant (Agentic AI)
-Made with ❤️ to simplify travel planning
+👨‍💻 Developed With
+IBM watsonx Assistant (Agentic AI)
+
+IBM Cloud Web Deployment
+
+Web Chat Interface
+
+Made with ❤️ using IBM Agentic AI
