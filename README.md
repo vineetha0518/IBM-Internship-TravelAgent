@@ -42,7 +42,7 @@ Integration: Easily deployable on websites or cloud apps
 
 🌐 Live Preview
 🔗 Click to Try the Travel Assistant Chatbot
-https://dataplatform.cloud.ibm.com/ml-runtime/deployments/aaa3e2a3-adc2-4ab9-9901-04a4b16d474d/chat?space_id=229ca472-1cab-482d-8578-8043d039ac72&context=wx&flush=true
+https://dataplatform.cloud.ibm.com/wx/agents/8dbf48b5-579d-4a3a-9918-26142a49c3fb?project_id=c3452c93-5072-4afa-971d-1a56382bfdce&context=wx
 
 💬 Interact with the assistant directly in your browser.
 No installation or login required!
